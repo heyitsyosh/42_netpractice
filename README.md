@@ -1,5 +1,5 @@
 <h1 align="center">
- netpractice
+ NetPractice
 </h1>
 
 ✅100/100
